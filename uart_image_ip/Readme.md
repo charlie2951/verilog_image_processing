@@ -22,3 +22,77 @@ Default value of enhancement is 30. You can change it or apply this as external 
 
 ###  Horizontal edge detection
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/54cbe46a-7dea-4aaf-a66d-7d9f612e1748" />
+
+### Sample Log
+Press N17 button after getting the message `Receiving image from UART`. Also Reset the board after every operation or at the beginning.
+
+```
+Original image loaded
+Receiving image from UART...
+RX 64 / 4096
+RX 128 / 4096
+RX 192 / 4096
+RX 256 / 4096
+RX 320 / 4096
+RX 384 / 4096
+RX 448 / 4096
+RX 512 / 4096
+RX 576 / 4096
+RX 640 / 4096
+RX 704 / 4096
+RX 768 / 4096
+RX 832 / 4096
+RX 896 / 4096
+RX 960 / 4096
+RX 1024 / 4096
+RX 1088 / 4096
+RX 1152 / 4096
+RX 1216 / 4096
+RX 1280 / 4096
+RX 1344 / 4096
+RX 1408 / 4096
+RX 1472 / 4096
+RX 1536 / 4096
+RX 1600 / 4096
+RX 1664 / 4096
+RX 1728 / 4096
+RX 1792 / 4096
+RX 1856 / 4096
+RX 1920 / 4096
+RX 1984 / 4096
+RX 2048 / 4096
+RX 2112 / 4096
+RX 2176 / 4096
+RX 2240 / 4096
+RX 2304 / 4096
+RX 2368 / 4096
+RX 2432 / 4096
+RX 2496 / 4096
+RX 2560 / 4096
+RX 2624 / 4096
+RX 2688 / 4096
+RX 2752 / 4096
+RX 2816 / 4096
+RX 2880 / 4096
+RX 2944 / 4096
+RX 3008 / 4096
+RX 3072 / 4096
+RX 3136 / 4096
+RX 3200 / 4096
+RX 3264 / 4096
+RX 3328 / 4096
+RX 3392 / 4096
+RX 3456 / 4096
+RX 3520 / 4096
+RX 3584 / 4096
+RX 3648 / 4096
+RX 3712 / 4096
+RX 3776 / 4096
+RX 3840 / 4096
+RX 3904 / 4096
+RX 3968 / 4096
+RX 4032 / 4096
+RX 4096 / 4096
+UART reception complete
+Processed image saved
+```
