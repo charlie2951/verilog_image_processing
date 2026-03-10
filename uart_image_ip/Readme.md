@@ -96,3 +96,5 @@ RX 4096 / 4096
 UART reception complete
 Processed image saved
 ```
+### Utilization Report
+<img width="250" height="160" alt="image" src="https://github.com/user-attachments/assets/f8fd115c-89db-46f7-b44e-99e345c2a04f" />
